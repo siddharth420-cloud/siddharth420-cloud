@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siddcloudverse-cloud
 - 👀 I’m interested in ..Traveling.
-- 🌱 I’m currently learning ...az-305 & basic java
-- 💞️ I’m looking to collaborate on ...java project
+- 🌱 I’m currently learning ...az-305, Devops & Java
+- 💞️ I’m looking to collaborate on ...java project & Devops project
 - 📫 How to reach me ...siddrtc@gmail.com
 
 <!---
